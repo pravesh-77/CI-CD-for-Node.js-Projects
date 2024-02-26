@@ -1,5 +1,5 @@
 {
-  "name": "@pravesh-77/package-example",
+  "name": "@pravesh-77/CI-CD-for-Node.js-Projects",
   "version": "0.0.1",
   "description": "Example project for TypeScript packages",
   "main": "index.js",
@@ -37,10 +37,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lexacode/package-example.git"
+    "url": "git+https://github.com/pravesh-77/CI-CD-for-Node.js-Projects.git"
   },
   "bugs": {
-    "url": "https://github.com/lexacode/package-example/issues"
+    "url": "https://github.com/pravesh-77/CI-CD-for-Node.js-Projects/issues"
   },
-  "homepage": "https://github.com/lexacode/package-example"
+  "homepage": "https://github.com/pravesh-77/CI-CD-for-Node.js-Projects"
 }
